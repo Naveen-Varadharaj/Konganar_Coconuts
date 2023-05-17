@@ -1,0 +1,164 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px 10px;
+    
+}
+.link{
+    text-decoration: none;
+    color: rgb(236, 227, 240);
+    border-style:solid;
+    border-color:transparent;
+    border-radius: 10px;
+    background-color: rgb(31, 30, 30);
+    padding: 5px 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link:active{
+    background-color: rgb(166, 57, 216);
+}
+
+#ap{
+    text-align: center;
+    display:inline-block;
+    border-radius: 8px;
+    background-color: transparent;
+    padding: 0px 10px;
+}
+.ah{
+    font-size:40px;
+    text-align: center;
+}
+.App{
+margin: 0% 0%;
+text-align: center;
+
+}
+
+.green{
+    background-color: rgb(125, 232, 79);
+    border-style: dashed;
+    border-color: rgb(11, 70, 19);
+    border-radius: 8px;
+    padding: 1% 5%;
+    margin:1% 20%;
+    height: 100%;
+}
+.brown {
+    background-color: rgb(83, 57, 37);
+    border-style: dashed;
+    border-color:rgb(60, 11, 11);
+    border-radius: 8px;
+    padding: 1% 5%;
+    margin:1% 20%;
+    height: 100%;
+}
+.black {
+    background-color: rgb(60, 60, 58);
+    border-style: dashed;
+    border-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    padding: 1% 5%;
+    margin:1% 20%;
+    height: 100%;
+}
+.img{
+    border-radius: 8px;
+    border-style: groove;
+    border-color:beige;
+    
+}
+.contact1{
+    background-color: transparent;
+    padding: 1% 1%;
+    margin: 4% 5%;
+}
+
+
+address{
+    text-align:center;
+    margin: 2% 2%;
+    border-style: dashed;
+    border-color: rgba(203, 56, 2, 0.956);
+    border-radius: 8px;
+    background-color: rgb(235, 132, 41);
+    padding: 10px 10px;
+    color: black;
+    font-style:italic;
+    font-size: 20px;
+    font-family:monospace;
+    color: rgb(114, 3, 3);
+
+    
+}
+.contact2{
+    border-style: dashed;
+    border-color: rgb(238, 12, 147);
+    border-radius: 9px;
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(215, 148, 121);
+    padding: 6% 13%;   
+    margin: 5px;
+    font-size: 20px;
+    font-family:monospace;
+    color: rgb(120, 17, 50);
+}
+.contact3{
+    border-color: rgb(30, 100, 8);
+    border-style: dashed;
+    border-radius: 9px;
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(79, 173, 56);
+    padding: 6% 7%;   
+    margin: 5px;
+    font-size: 20px;
+    font-family:monospace;
+    color: rgb(20, 66, 3);
+}
+.f1{
+    background-color: rgb(233, 167, 246);
+    border-radius: 10px;
+    border-style: dashed;
+    padding: 6% 7%;
+    margin: 5% 30%;
+    text-align: center;
+    margin-top: 1%;
+}
+.form{
+    background-color: rgb(151, 113, 113);
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: rgb(82, 0, 0);
+    padding: 1% 1%;
+    margin: 0% 20%;
+}
+.in{
+    border-radius: 5px;
+    background-color: coral;
+    border-color: orangered;
+    border-style:solid;
+}
+.submit{
+    background-color: rgb(55, 205, 55);
+    color: black;
+    border-radius: 5px;
+    border-color: rgb(3, 71, 3);
+}
+.submit:active{
+    background-color: crimson;
+}
+.fh1{
+    color: maroon;
+    font-style: italic;
+}
